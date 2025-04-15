@@ -1,3 +1,1 @@
-# Projects
-
-This contains the projects I've recently worked on
+A Snake Game build using C++
